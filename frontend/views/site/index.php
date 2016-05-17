@@ -53,37 +53,37 @@ $this->title = "Máy thiết bị công nghệ";
         <div class="col-sm-3">
             <div class="producthome-item frist">
                 <div class="p-images">
-                    <a href="/site/binh-gom-hoi-dot"><img src="images/machine/Bình gom hơi đốt.jpg" alt="Filter"></a>
+                    <a href="site/binh-gom-hoi-dot"><img src="images/machine/Bình gom hơi đốt.jpg" alt="Filter"></a>
                 </div>
-                <h2><a href="/site/binh-gom-hoi-dot">Bình gom hơi đốt</a> </h2>
-                <span class="more"><a href="/site/binh-gom-hoi-dot"> <span class="more"> Chi tiết </span></a></span>
+                <h2><a href="site/binh-gom-hoi-dot">Bình gom hơi đốt</a> </h2>
+                <span class="more"><a href="site/binh-gom-hoi-dot"> <span class="more"> Chi tiết </span></a></span>
             </div><!-- producthome-item-->
         </div>
         <div class="col-sm-3">
             <div class="producthome-item">
                 <div class="p-images">
-                    <a href="/site/may-chiet-tui"><img src="images/machine/Máy chiết túi.jpg" alt="Filter"></a>
+                    <a href="site/may-chiet-tui"><img src="images/machine/Máy chiết túi.jpg" alt="Filter"></a>
                 </div>
-                <h2><a href="/site/may-chiet-tui">Máy chiết túi</a> </h2>
-                <span class="more"><a href="/site/may-chiet-tui"> <span class="more"> Chi tiết </span></a></span>
+                <h2><a href="site/may-chiet-tui">Máy chiết túi</a> </h2>
+                <span class="more"><a href="site/may-chiet-tui"> <span class="more"> Chi tiết </span></a></span>
             </div><!-- producthome-item-->
         </div>
         <div class="col-sm-3">
             <div class="producthome-item">
                 <div class="p-images">
-                    <a href="/site/noi-lam-nguoi-va-thiet-bi-dong-hoa"><img src="images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" alt="Filter"></a>
+                    <a href="site/noi-lam-nguoi-va-thiet-bi-dong-hoa"><img src="images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" alt="Filter"></a>
                 </div>
-                <h2><a href="/site/noi-lam-nguoi-va-thiet-bi-dong-hoa">Nồi làm nguội và thiết bị đồng hóa</a> </h2>
-                <span class="more"><a href="/site/noi-lam-nguoi-va-thiet-bi-dong-hoa"> <span class="more"> Chi tiết </span></a></span>
+                <h2><a href="site/noi-lam-nguoi-va-thiet-bi-dong-hoa">Nồi làm nguội và thiết bị đồng hóa</a> </h2>
+                <span class="more"><a href="site/noi-lam-nguoi-va-thiet-bi-dong-hoa"> <span class="more"> Chi tiết </span></a></span>
             </div><!-- producthome-item-->
         </div>
         <div class="col-sm-3">
             <div class="producthome-item end">
                 <div class="p-images">
-                    <a href="/site/noi-nau-va-cac-bon-trung-gian"><img src="images/machine/Nồi nấu và các bồn trung gian.jpg" alt="Filter"></a>
+                    <a href="site/noi-nau-va-cac-bon-trung-gian"><img src="images/machine/Nồi nấu và các bồn trung gian.jpg" alt="Filter"></a>
                 </div>
-                <h2><a href="/site/noi-nau-va-cac-bon-trung-gian">Nồi nấu và các bồn trung gian</a> </h2>
-                <span class="more"><a href="/site/noi-nau-va-cac-bon-trung-gian"> <span class="more"> Chi tiết </span></a></span>
+                <h2><a href="site/noi-nau-va-cac-bon-trung-gian">Nồi nấu và các bồn trung gian</a> </h2>
+                <span class="more"><a href="site/noi-nau-va-cac-bon-trung-gian"> <span class="more"> Chi tiết </span></a></span>
             </div><!-- producthome-item-->
         </div>
         <br class="space"/>

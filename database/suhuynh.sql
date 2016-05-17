@@ -7,9 +7,6 @@
 -- Phiên bản máy phục vụ: 5.5.49-0ubuntu0.14.04.1
 -- Phiên bản PHP: 5.5.9-1ubuntu4.16
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET time_zone = "+00:00";
-
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -17,7 +14,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Cơ sở dữ liệu: `suhuynh`
+-- Cơ sở dữ liệu: `ruou`
 --
 
 -- --------------------------------------------------------

@@ -12,9 +12,9 @@ $this->title = "Giới thiệu";
         <div class="box-category">
             <h3>Giới thiệu</h3>
             <ul>
-                <li><h2><a href="/site/about">Giới thiệu về trung tâm</a> </h2></li>
-                <li><h2><a href="/site/gioithieu-thietbiruou">Thiết bị công nghệ rượu</a> </h2></li>
-                <li><h2><a href="/site/gioithieu-thietbitinhdau">Thiết bị công nghệ tinh dầu</a> </h2></li>
+                <li><h2><a href="site/about">Giới thiệu về trung tâm</a> </h2></li>
+                <li><h2><a href="site/gioithieu-thietbiruou">Thiết bị công nghệ rượu</a> </h2></li>
+                <li><h2><a href="site/gioithieu-thietbitinhdau">Thiết bị công nghệ tinh dầu</a> </h2></li>
                 <!-- <li><h2><a href="#">Products to be Launched</a> </h2></li> -->
             </ul>
         </div><!--end box-category-->
