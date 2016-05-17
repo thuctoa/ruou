@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Máy chủ: localhost
--- Thời gian đã tạo: Th5 17, 2016 lúc 03:34 PM
+-- Thời gian đã tạo: Th5 17, 2016 lúc 03:51 PM
 -- Phiên bản máy phục vụ: 5.5.49-0ubuntu0.14.04.1
 -- Phiên bản PHP: 5.5.9-1ubuntu4.16
 
