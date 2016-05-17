@@ -1,0 +1,139 @@
+2016-03-28 13:38:53 [-][-][-][error][yii\console\Exception] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "init".' in /home/projects/bacgiang/vendor/yiisoft/yii2/base/Module.php:460
+Stack trace:
+#0 /home/projects/bacgiang/vendor/yiisoft/yii2/console/Application.php(167): yii\base\Module->runAction('init', Array)
+#1 /home/projects/bacgiang/vendor/yiisoft/yii2/console/Application.php(143): yii\console\Application->runAction('init', Array)
+#2 /home/projects/bacgiang/vendor/yiisoft/yii2/base/Application.php(375): yii\console\Application->handleRequest(Object(yii\console\Request))
+#3 /home/projects/bacgiang/yii(27): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\console\Exception' with message 'Unknown command "init".' in /home/projects/bacgiang/vendor/yiisoft/yii2/console/Application.php:169
+Stack trace:
+#0 /home/projects/bacgiang/vendor/yiisoft/yii2/console/Application.php(143): yii\console\Application->runAction('init', Array)
+#1 /home/projects/bacgiang/vendor/yiisoft/yii2/base/Application.php(375): yii\console\Application->handleRequest(Object(yii\console\Request))
+#2 /home/projects/bacgiang/yii(27): yii\base\Application->run()
+#3 {main}
+2016-03-28 13:38:53 [-][-][-][info][application] $_SERVER = [
+    'LC_PAPER' => 'vi_VN'
+    'LC_ADDRESS' => 'vi_VN'
+    'LC_MONETARY' => 'vi_VN'
+    'SHELL' => '/bin/bash'
+    'TERM' => 'xterm'
+    'NLS_LANG' => 'AMERICAN_AMERICA.AL32UTF8'
+    'LC_NUMERIC' => 'vi_VN'
+    'NVM_DIR' => '/root/.nvm'
+    'USER' => 'root'
+    'LD_LIBRARY_PATH' => '/u01/app/oracle/product/11.2.0/xe/lib:'
+    'LC_TELEPHONE' => 'vi_VN'
+    'LS_COLORS' => 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:'
+    'ORACLE_SID' => 'XE'
+    'SUDO_USER' => 'thuc'
+    'SUDO_UID' => '1000'
+    'ORACLE_BASE' => '/u01/app/oracle'
+    'USERNAME' => 'root'
+    'MAIL' => '/var/mail/root'
+    'PATH' => '/u01/app/oracle/product/11.2.0/xe/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'QT_QPA_PLATFORMTHEME' => 'appmenu-qt5'
+    'NVM_NODEJS_ORG_MIRROR' => 'http://nodejs.org/dist'
+    'LC_IDENTIFICATION' => 'vi_VN'
+    'PWD' => '/home/projects/bacgiang'
+    'JAVA_HOME' => '/usr/lib/jvm/java-8-oracle'
+    'LANG' => 'en_US.UTF-8'
+    'NODE_PATH' => '/usr/lib/nodejs:/usr/lib/node_modules:/usr/share/javascript'
+    'LC_MEASUREMENT' => 'vi_VN'
+    'SHLVL' => '1'
+    'SUDO_COMMAND' => '/bin/bash'
+    'HOME' => '/root'
+    'LANGUAGE' => 'en_US'
+    'LOGNAME' => 'root'
+    'LESSOPEN' => '| /usr/bin/lesspipe %s'
+    'SUDO_GID' => '1000'
+    'DISPLAY' => ':0'
+    'ORACLE_HOME' => '/u01/app/oracle/product/11.2.0/xe'
+    'LESSCLOSE' => '/usr/bin/lesspipe %s %s'
+    'LC_TIME' => 'vi_VN'
+    'COLORTERM' => 'gnome-terminal'
+    'XAUTHORITY' => '/home/thuc/.Xauthority'
+    'LC_NAME' => 'vi_VN'
+    '_' => './yii'
+    'OLDPWD' => '/home/projects/bacgiang/backend'
+    'PHP_SELF' => './yii'
+    'SCRIPT_NAME' => './yii'
+    'SCRIPT_FILENAME' => './yii'
+    'PATH_TRANSLATED' => './yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1459172333.4486
+    'REQUEST_TIME' => 1459172333
+    'argv' => [
+        0 => './yii'
+        1 => 'init'
+    ]
+    'argc' => 2
+]
+2016-03-28 13:39:14 [-][-][-][error][yii\console\Exception] exception 'yii\console\Exception' with message 'Missing required arguments: configFile, bundleFile' in /home/projects/bacgiang/vendor/yiisoft/yii2/console/Controller.php:146
+Stack trace:
+#0 /home/projects/bacgiang/vendor/yiisoft/yii2/base/InlineAction.php(49): yii\console\Controller->bindActionParams(Object(yii\base\InlineAction), Array)
+#1 /home/projects/bacgiang/vendor/yiisoft/yii2/base/Controller.php(154): yii\base\InlineAction->runWithParams(Array)
+#2 /home/projects/bacgiang/vendor/yiisoft/yii2/console/Controller.php(108): yii\base\Controller->runAction('', Array)
+#3 /home/projects/bacgiang/vendor/yiisoft/yii2/base/Module.php(454): yii\console\Controller->runAction('', Array)
+#4 /home/projects/bacgiang/vendor/yiisoft/yii2/console/Application.php(167): yii\base\Module->runAction('asset', Array)
+#5 /home/projects/bacgiang/vendor/yiisoft/yii2/console/Application.php(143): yii\console\Application->runAction('asset', Array)
+#6 /home/projects/bacgiang/vendor/yiisoft/yii2/base/Application.php(375): yii\console\Application->handleRequest(Object(yii\console\Request))
+#7 /home/projects/bacgiang/yii(27): yii\base\Application->run()
+#8 {main}
+2016-03-28 13:39:14 [-][-][-][info][application] $_SERVER = [
+    'LC_PAPER' => 'vi_VN'
+    'LC_ADDRESS' => 'vi_VN'
+    'LC_MONETARY' => 'vi_VN'
+    'SHELL' => '/bin/bash'
+    'TERM' => 'xterm'
+    'NLS_LANG' => 'AMERICAN_AMERICA.AL32UTF8'
+    'LC_NUMERIC' => 'vi_VN'
+    'NVM_DIR' => '/root/.nvm'
+    'USER' => 'root'
+    'LD_LIBRARY_PATH' => '/u01/app/oracle/product/11.2.0/xe/lib:'
+    'LC_TELEPHONE' => 'vi_VN'
+    'LS_COLORS' => 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:'
+    'ORACLE_SID' => 'XE'
+    'SUDO_USER' => 'thuc'
+    'SUDO_UID' => '1000'
+    'ORACLE_BASE' => '/u01/app/oracle'
+    'USERNAME' => 'root'
+    'MAIL' => '/var/mail/root'
+    'PATH' => '/u01/app/oracle/product/11.2.0/xe/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'QT_QPA_PLATFORMTHEME' => 'appmenu-qt5'
+    'NVM_NODEJS_ORG_MIRROR' => 'http://nodejs.org/dist'
+    'LC_IDENTIFICATION' => 'vi_VN'
+    'PWD' => '/home/projects/bacgiang'
+    'JAVA_HOME' => '/usr/lib/jvm/java-8-oracle'
+    'LANG' => 'en_US.UTF-8'
+    'NODE_PATH' => '/usr/lib/nodejs:/usr/lib/node_modules:/usr/share/javascript'
+    'LC_MEASUREMENT' => 'vi_VN'
+    'SHLVL' => '1'
+    'SUDO_COMMAND' => '/bin/bash'
+    'HOME' => '/root'
+    'LANGUAGE' => 'en_US'
+    'LOGNAME' => 'root'
+    'LESSOPEN' => '| /usr/bin/lesspipe %s'
+    'SUDO_GID' => '1000'
+    'DISPLAY' => ':0'
+    'ORACLE_HOME' => '/u01/app/oracle/product/11.2.0/xe'
+    'LESSCLOSE' => '/usr/bin/lesspipe %s %s'
+    'LC_TIME' => 'vi_VN'
+    'COLORTERM' => 'gnome-terminal'
+    'XAUTHORITY' => '/home/thuc/.Xauthority'
+    'LC_NAME' => 'vi_VN'
+    '_' => './yii'
+    'OLDPWD' => '/home/projects/bacgiang/backend'
+    'PHP_SELF' => './yii'
+    'SCRIPT_NAME' => './yii'
+    'SCRIPT_FILENAME' => './yii'
+    'PATH_TRANSLATED' => './yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1459172354.1016
+    'REQUEST_TIME' => 1459172354
+    'argv' => [
+        0 => './yii'
+        1 => 'asset'
+    ]
+    'argc' => 2
+]
