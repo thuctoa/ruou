@@ -21,7 +21,7 @@
     <div class="col-sm-9">
         <div class="new">
             <div class="list-new">
-                <a href="#" ><img src="/images/anh-bai-viet.jpg" class="imgstyle"> </a>
+                <a href="#" ><img src="images/anh-bai-viet.jpg" class="imgstyle"> </a>
                 <h2><a href="/site/hinh-anh-thiet-bi-trien-khai-1">Một số thiết bị và các dự án đã triển khai - phần 1</a> </h2>
                 <p>
                     HỆ THỐNG DÂY CHUYỀN THIẾT BỊ SẢN XUẤT 
@@ -29,7 +29,7 @@
                 </p>
             </div>
             <div class="list-new">
-                <a href="#"><img src="/images/anh-bai-viet.jpg"  class="imgstyle"> </a>
+                <a href="#"><img src="images/anh-bai-viet.jpg"  class="imgstyle"> </a>
                 <h2><a href="/site/hinh-anh-thiet-bi-trien-khai-2">TMột số thiết bị và các dự án đã triển khai - phần 2</a> </h2>
                 <p>
                     HỆ THỐNG CÁC DÂY CHUYỀN THIẾT BỊ CÔNG NGHỆ 
@@ -37,7 +37,7 @@
                 </p>
             </div>
             <div class="list-new">
-                <a href="#"><img src="/images/anh-bai-viet.jpg"  class="imgstyle"> </a>
+                <a href="#"><img src="images/anh-bai-viet.jpg"  class="imgstyle"> </a>
                 <h2><a href="/site/hinh-anh-thiet-bi-trien-khai-3">Một số thiết bị và các dự án đã triển khai - phần 3</a> </h2>
                 <p>
                     HỆ THỐNG CÁC DÂY CHUYỀN THIẾT BỊ CÔNG NGHỆ 

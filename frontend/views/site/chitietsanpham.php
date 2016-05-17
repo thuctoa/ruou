@@ -22,14 +22,14 @@
             <div class="box-des">
                 <!-- img show mobile -->
                 <div class="img-mobile">
-                    <img src="/images/product1.jpg">
+                    <img src="images/product1.jpg">
                 </div>
                 <div class="slider-images">
                     <div class="simpleLens-gallery-container" id="zoomimages">
                         <div class="simpleLens-container">
                             <div class="simpleLens-big-image-container">
                                 <a class="simpleLens-lens-image" data-lens-image="/images/large1/product1.jpg">
-                                    <img src="/images/large1/product1.jpg" class="simpleLens-big-image">
+                                    <img src="images/large1/product1.jpg" class="simpleLens-big-image">
                                 </a>
                             </div>
                         </div>
@@ -38,19 +38,19 @@
                             <a href="#" class="simpleLens-thumbnail-wrapper"
                                data-lens-image="/images/large1/product2.jpg"
                                data-big-image="/images/large1/product2.jpg">
-                                <img src="/images/large1/product2.jpg">
+                                <img src="images/large1/product2.jpg">
                             </a>
 
                             <a href="#" class="simpleLens-thumbnail-wrapper"
                                data-lens-image="/images/large1/product3.jpg"
                                data-big-image="/images/large1/product3.jpg">
-                                <img src="/images/large1/product3.jpg">
+                                <img src="images/large1/product3.jpg">
                             </a>
 
                             <a href="#" class="simpleLens-thumbnail-wrapper"
                                data-lens-image="/images/large1/product1.jpg"
                                data-big-image="/images/large1/product1.jpg">
-                                <img src="/images/large1/product1.jpg">
+                                <img src="images/large1/product1.jpg">
                             </a>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                     <div class="col-sm-4">
                         <div class="item-product-category">
                             <div class="p-images">
-                                <a href="#"><img src="/images/product3.jpg" alt="Filter"></a>
+                                <a href="#"><img src="images/product3.jpg" alt="Filter"></a>
                             </div>
                             <h2><a href="#">JPnP Filter (Turn & Push)</a> </h2>
                             <span class="price">2.200.000VNĐ</span>
@@ -119,7 +119,7 @@
                     <div class="col-sm-4">
                         <div class="item-product-category">
                             <div class="p-images">
-                                <a href="#"><img src="/images/product3.jpg" alt="Filter"></a>
+                                <a href="#"><img src="images/product3.jpg" alt="Filter"></a>
                             </div>
                             <h2><a href="#">JPnP Filter (Turn & Push)</a> </h2>
                             <span class="price">2.200.000VNĐ</span>
@@ -128,7 +128,7 @@
                     <div class="col-sm-4">
                         <div class="item-product-category">
                             <div class="p-images">
-                                <a href="#"><img src="/images/product3.jpg" alt="Filter"></a>
+                                <a href="#"><img src="images/product3.jpg" alt="Filter"></a>
                             </div>
                             <h2><a href="#">JPnP Filter (Turn & Push)</a> </h2>
                             <span class="price">2.200.000VNĐ</span>

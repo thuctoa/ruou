@@ -21,14 +21,14 @@
             <div class="box-des">
                 <!-- img show mobile -->
                 <div class="img-mobile">
-                    <img src="/images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg">
+                    <img src="images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg">
                 </div>
                 <div class="slider-images">
                     <div class="simpleLens-gallery-container" id="zoomimages">
                         <div class="simpleLens-container">
                             <div class="simpleLens-big-image-container">
                                 <a class="simpleLens-lens-image" data-lens-image="/images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg">
-                                    <img src="/images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" class="simpleLens-big-image">
+                                    <img src="images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" class="simpleLens-big-image">
                                 </a>
                             </div>
                         </div>
@@ -37,19 +37,19 @@
                             <!-- <a href="#" class="simpleLens-thumbnail-wrapper"
                                data-lens-image="/images/product2.jpg"
                                data-big-image="/images/product2.jpg">
-                              <img src="/images/product2.jpg">
+                              <img src="images/product2.jpg">
                             </a> -->
 
                             <!-- <a href="#" class="simpleLens-thumbnail-wrapper"
                                data-lens-image="/images/product3.jpg"
                                data-big-image="/images/product3.jpg">
-                              <img src="/images/product3.jpg">
+                              <img src="images/product3.jpg">
                             </a> -->
 
                             <a href="#" class="simpleLens-thumbnail-wrapper"
                                data-lens-image="/images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg"
                                data-big-image="/images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg">
-                                <img src="/images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg">
+                                <img src="images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg">
                             </a>
                         </div>
                     </div>
@@ -101,17 +101,17 @@
                 <div class="tab-content">
                     <div role="tabpanel" class="tab-pane active" id="tab1">
                         <div class="list-new">
-                            <a href="#" ><img src="/images/anh-bai-viet.jpg" class="imgstyle"> </a>
+                            <a href="#" ><img src="images/anh-bai-viet.jpg" class="imgstyle"> </a>
                             <h2><a href="/site/hinh-anh-thiet-bi-trien-khai-1">Một số thiết bị và các dự án đã triển khai - phần 1</a> </h2>
                             <p>Hình ảnh một số thiết bị và các dự án đã triển khai</p>
                         </div>
                         <div class="list-new">
-                            <a href="#"><img src="/images/anh-bai-viet.jpg"  class="imgstyle"> </a>
+                            <a href="#"><img src="images/anh-bai-viet.jpg"  class="imgstyle"> </a>
                             <h2><a href="/site/hinh-anh-thiet-bi-trien-khai-2">Một số thiết bị và các dự án đã triển khai - phần 2</a> </h2>
                             <p>Hình ảnh một số thiết bị và các dự án đã triển khai</p>
                         </div>
                         <div class="list-new">
-                            <a href="#"><img src="/images/anh-bai-viet.jpg"  class="imgstyle"> </a>
+                            <a href="#"><img src="images/anh-bai-viet.jpg"  class="imgstyle"> </a>
                             <h2><a href="/site/hinh-anh-thiet-bi-trien-khai-3">Một số thiết bị và các dự án đã triển khai - phần 3</a> </h2>
                             <p>Hình ảnh một số thiết bị và các dự án đã triển khai</p>
                         </div>
@@ -131,7 +131,7 @@
                     <div class="col-sm-4">
                         <div class="item-product-category">
                             <div class="p-images">
-                                <a href="#"><img src="/images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" alt="Filter"></a>
+                                <a href="#"><img src="images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" alt="Filter"></a>
                             </div>
                             <h2><a href="#">Nồi làm nguội và thiết bị đồng hóa</a> </h2>
                             <!-- <span class="price">2.200.000VNĐ</span> -->
@@ -140,7 +140,7 @@
                     <div class="col-sm-4">
                         <div class="item-product-category">
                             <div class="p-images">
-                                <a href="#"><img src="/images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" alt="Filter"></a>
+                                <a href="#"><img src="images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" alt="Filter"></a>
                             </div>
                             <h2><a href="#">Nồi làm nguội và thiết bị đồng hóa</a> </h2>
                             <!-- <span class="price">2.200.000VNĐ</span> -->
@@ -149,7 +149,7 @@
                     <div class="col-sm-4">
                         <div class="item-product-category">
                             <div class="p-images">
-                                <a href="#"><img src="/images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" alt="Filter"></a>
+                                <a href="#"><img src="images/machine/Nồi làm nguội và thiết bị đồng hóa.jpg" alt="Filter"></a>
                             </div>
                             <h2><a href="#">Nồi làm nguội và thiết bị đồng hóa</a> </h2>
                             <!-- <span class="price">2.200.000VNĐ</span> -->
