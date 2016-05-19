@@ -1,7 +1,7 @@
 <div class="breadcrumb-page">
     <ol class="breadcrumb">
-        <li><a href="#">Trang chủ</a></li>
-        <li class="active"><a href="#">Sản phẩm</a></li>
+        <li><a href="?r=site/index">Trang chủ</a></li>
+        <li class="active"><a href="?r=site/tintuc">Tin tức</a></li>
     </ol><!--end breadcrumb-->
 </div>
 <div class="content-catogery">

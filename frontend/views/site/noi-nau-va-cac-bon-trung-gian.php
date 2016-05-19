@@ -1,8 +1,8 @@
 
 <div class="breadcrumb-page">
     <ol class="breadcrumb">
-        <li><a href="#">Trang chủ</a></li>
-        <li class="active"><a href="#">Sản phẩm</a></li>
+        <li><a href="?r=site/index">Trang chủ</a></li>
+        <li class="active"><a href="?r=site/sanpham">Sản phẩm</a></li>
     </ol><!--end breadcrumb-->
 </div>
 <div class="content-catogery">
@@ -10,9 +10,9 @@
         <div class="box-category">
             <h3>Sản phẩm</h3>
             <ul>
-                <li><h2><a href="site/about">Giới thiệu về trung tâm</a> </h2></li>
-                <li><h2><a href="site/gioithieu-thietbiruou">Thiết bị công nghệ rượu</a> </h2></li>
-                <li><h2><a href="site/gioithieu-thietbitinhdau">Thiết bị công nghệ tinh dầu</a> </h2></li>
+                <li><h2><a href="?r=site/about">Giới thiệu về trung tâm</a> </h2></li>
+                <li><h2><a href="?r=site/gioithieu-thietbiruou">Thiết bị công nghệ rượu</a> </h2></li>
+                <li><h2><a href="?r=site/gioithieu-thietbitinhdau">Thiết bị công nghệ tinh dầu</a> </h2></li>
             </ul>
         </div><!--end box-category-->
     </div>
@@ -103,17 +103,17 @@
                     <div role="tabpanel" class="tab-pane active" id="tab1">
                         <div class="list-new">
                             <a href="#" ><img src="/images/anh-bai-viet.jpg" class="imgstyle"> </a>
-                            <h2><a href="site/hinh-anh-thiet-bi-trien-khai-1">Một số thiết bị và các dự án đã triển khai - phần 1</a> </h2>
+                            <h2><a href="?r=site/hinh-anh-thiet-bi-trien-khai-1">Một số thiết bị và các dự án đã triển khai - phần 1</a> </h2>
                             <p>Hình ảnh một số thiết bị và các dự án đã triển khai</p>
                         </div>
                         <div class="list-new">
                             <a href="#"><img src="/images/anh-bai-viet.jpg"  class="imgstyle"> </a>
-                            <h2><a href="site/hinh-anh-thiet-bi-trien-khai-2">Một số thiết bị và các dự án đã triển khai - phần 2</a> </h2>
+                            <h2><a href="?r=site/hinh-anh-thiet-bi-trien-khai-2">Một số thiết bị và các dự án đã triển khai - phần 2</a> </h2>
                             <p>Hình ảnh một số thiết bị và các dự án đã triển khai</p>
                         </div>
                         <div class="list-new">
                             <a href="#"><img src="/images/anh-bai-viet.jpg"  class="imgstyle"> </a>
-                            <h2><a href="site/hinh-anh-thiet-bi-trien-khai-3">Một số thiết bị và các dự án đã triển khai - phần 3</a> </h2>
+                            <h2><a href="?r=site/hinh-anh-thiet-bi-trien-khai-3">Một số thiết bị và các dự án đã triển khai - phần 3</a> </h2>
                             <p>Hình ảnh một số thiết bị và các dự án đã triển khai</p>
                         </div>
                     </div>

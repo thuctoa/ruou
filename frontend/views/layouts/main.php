@@ -42,7 +42,7 @@ AppAsset::register($this);
                     <div class="row">
                         <div class="header-in">
                             <div class="col-sm-5">
-                                <a href="/site/index" class="logo"><img src="/images/logo.png"></a>
+                                <a href="?r=site/index" class="logo"><img src="/images/logo.png"></a>
                             </div>
                             <div class="col-sm-7">
                                 <div class="menu">
@@ -56,13 +56,14 @@ AppAsset::register($this);
                                     </div>
                                     <div id="navbar" class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav">
-                                            <li class="active"><a href="/site/index">Trang chủ</a></li>
-                                            <li class=""><a href="/site/about" class="ui-link">Giới thiệu</a></li>
-                                            <li class=""><a href="/site/sanpham" class="ui-link">Sản phẩm</a></li>
-                                            <li class=""><a href="/site/dichvu" class="ui-link">Dịch vụ</a></li>
-                                            <li class=""><a href="/site/tintuc" class="ui-link">Tin tức</a></li>
+                                            <li class="active"><a href="?r=site/index">Trang chủ</a></li>
+                                            <li class=""><a href="?r=gioithieu%2Fview&id=1" class="ui-link">Giới thiệu</a></li>
+                                            <li class=""><a href="?r=sanpham" class="ui-link">Sản phẩm</a></li>
+                                            <li class=""><a href="?r=site/dichvu" class="ui-link">Dịch vụ</a></li>
+                                            <li class=""><a href="?r=tintuc" class="ui-link">Tin tức</a></li>
                                         </ul>
                                     </div><!--/.nav-collapse -->
+                                    
                                 </div><!--end menu -->
                             </div>
                         </div>

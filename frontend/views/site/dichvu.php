@@ -3,8 +3,8 @@
 ?>
 <div class="breadcrumb-page">
     <ol class="breadcrumb">
-        <li><a href="#">Trang chủ</a></li>
-        <li class="active"><a href="#">Giới thiệu</a></li>
+        <li><a href="?r=site/index">Trang chủ</a></li>
+        <li class="active"><a href="?r=site/dichvu">Dịch vụ</a></li>
     </ol><!--end breadcrumb-->
 </div>
 <div class="content-catogery">
@@ -12,9 +12,9 @@
         <div class="box-category">
             <h3>Sản phẩm</h3>
             <ul>
-                <li><h2><a href="site/about">Giới thiệu về trung tâm</a> </h2></li>
-                <li><h2><a href="site/gioithieu-thietbiruou">Thiết bị công nghệ rượu</a> </h2></li>
-                <li><h2><a href="site/gioithieu-thietbitinhdau">Thiết bị công nghệ tinh dầu</a> </h2></li>
+                <li><h2><a href="?r=site/about">Giới thiệu về trung tâm</a> </h2></li>
+                <li><h2><a href="?r=site/gioithieu-thietbiruou">Thiết bị công nghệ rượu</a> </h2></li>
+                <li><h2><a href="?r=site/gioithieu-thietbitinhdau">Thiết bị công nghệ tinh dầu</a> </h2></li>
             </ul>
         </div><!--end box-category-->
     </div>
