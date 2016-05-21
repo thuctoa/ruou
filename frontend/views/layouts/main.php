@@ -61,6 +61,7 @@ AppAsset::register($this);
                                             <li class=""><a href="?r=sanpham" class="ui-link">Sản phẩm</a></li>
                                             <li class=""><a href="?r=site/dichvu" class="ui-link">Dịch vụ</a></li>
                                             <li class=""><a href="?r=tintuc" class="ui-link">Tin tức</a></li>
+                                              <li class=""><a href="?r=site/lienhe" class="ui-link">Liên hệ</a></li>
                                         </ul>
                                     </div><!--/.nav-collapse -->
                                     

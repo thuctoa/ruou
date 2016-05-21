@@ -11,7 +11,7 @@ use Yii;
  * @property string $gioithieu_tieude
  * @property string $gioithieu_noidung
  */
-class Gioithieu extends \yii\db\ActiveRecord
+class gioithieu extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc
@@ -28,8 +28,7 @@ class Gioithieu extends \yii\db\ActiveRecord
     {
         return [
             [['gioithieu_tieude', 'gioithieu_noidung'], 'required'],
-            [['gioithieu_noidung'], 'string'],
-            [['gioithieu_tieude'], 'string', 'max' => 100],
+            [['gioithieu_tieude', 'gioithieu_noidung'], 'string'],
         ];
     }
 
@@ -39,9 +38,9 @@ class Gioithieu extends \yii\db\ActiveRecord
     public function attributeLabels()
     {
         return [
-            'gioithieu_id' => 'Gioithieu ID',
-            'gioithieu_tieude' => 'Gioithieu Tieude',
-            'gioithieu_noidung' => 'Gioithieu Noidung',
+            'gioithieu_id' => 'ID',
+            'gioithieu_tieude' => 'Tiêu đề',
+            'gioithieu_noidung' => 'Nội dung',
         ];
     }
 }

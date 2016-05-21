@@ -6,7 +6,7 @@ use yii\helpers\Html;
 /* @var $this yii\web\View */
 /* @var $model backend\models\Sanpham */
 
-$this->title = 'Create Sanpham';
+$this->title = 'Tạo mới';
 $this->params['breadcrumbs'][] = ['label' => 'Sanphams', 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>

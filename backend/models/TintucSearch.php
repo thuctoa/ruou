@@ -19,7 +19,7 @@ class TintucSearch extends Tintuc
     {
         return [
             [['tintuc_id'], 'integer'],
-            [['tintuc_tieude', 'tintuc_gioithieu', 'tintuc_noidung', 'tintuc_ngaylap'], 'safe'],
+            [['tintuc_tieude', 'tintuc_noidung', 'tintuc_ngaylap'], 'safe'],
         ];
     }
 

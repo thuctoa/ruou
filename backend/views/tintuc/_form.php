@@ -13,6 +13,8 @@ use yii\widgets\ActiveForm;
     <?php $form = ActiveForm::begin(); ?>
 
     <?= $form->field($model, 'tintuc_tieude')->textInput(['maxlength' => true]) ?>
+      
+    <?= $form->field($model, 'tintuc_anh')->textInput(['maxlength' => true]) ?>
     
     <?= $form->field($model, 'tintuc_gioithieu')->textInput(['maxlength' => true]) ?>
 

@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel frontend\models\GioithieuSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Gioithieus';
+$this->title = 'Giới thiệu';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="gioithieu-index">
@@ -16,7 +16,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
 
     <p>
-        <?= Html::a('Create Gioithieu', ['create'], ['class' => 'btn btn-success']) ?>
+        <?= Html::a('Tạo mới', ['create'], ['class' => 'btn btn-success']) ?>
     </p>
     <?= GridView::widget([
         'dataProvider' => $dataProvider,

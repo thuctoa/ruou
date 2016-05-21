@@ -18,7 +18,7 @@ class SanphamSearch extends Sanpham
     public function rules()
     {
         return [
-            [['sampham_id'], 'integer'],
+            [['sanpham_id'], 'integer'],
             [['sanpham_ten', 'sanpham_anh', 'sanpham_noidung', 'sanpham_ngaylap'], 'safe'],
         ];
     }
@@ -59,7 +59,7 @@ class SanphamSearch extends Sanpham
 
         // grid filtering conditions
         $query->andFilterWhere([
-            'sampham_id' => $this->sampham_id,
+            'sanpham_id' => $this->sanpham_id,
             'sanpham_ngaylap' => $this->sanpham_ngaylap,
         ]);
 

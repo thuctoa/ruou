@@ -192,21 +192,10 @@ class SiteController extends Controller
         return $this->render('chitietsanpham');
     }
     
-    public function actionBinhGomHoiDot()
+  
+     public function actionLienhe()
     {
-        return $this->render('binh-gom-hoi-dot');
-    }
-    public function actionMayChietTui()
-    {
-        return $this->render('may-chiet-tui');
-    }
-    public function actionNoiLamNguoiVaThietBiDongHoa()
-    {
-        return $this->render('noi-lam-nguoi-va-thiet-bi-dong-hoa');
-    }
-    public function actionNoiNauVaCacBonTrungGian()
-    {
-        return $this->render('noi-nau-va-cac-bon-trung-gian');
+        return $this->render('lienhe');
     }
     
    

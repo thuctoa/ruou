@@ -12,19 +12,22 @@ $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="breadcrumb-page">
     <ol class="breadcrumb">
-          <li><a href="?r=site/index">Trang chủ</a></li>
-        <li class="active"><a href="?r=site/sanpham">Sản phẩm</a></li>
+          <li><a href="?r=index">Trang chủ</a></li>
+        <li class="active"><a href="?r=sanpham">Sản phẩm</a></li>
+        <li class="active"><a href="?r=tintuc%2Fview&id="><?=$sanpham->sanpham_ten?></a></li>
+        
     </ol><!--end breadcrumb-->
 </div>
 <div class="content-catogery">
     <div class="col-sm-3">
         <div class="box-category">
-            <h3>Sản phẩm</h3>
-            <ul>
-                  <li><h2><a href="?r=gioithieu%2Fview&id=1">Giới thiệu về trung tâm</a> </h2></li>
-                <li><h2><a href="?r=gioithieu%2Fview&id=3">Thiết bị công nghệ rượu</a> </h2></li>
-                <li><h2><a href="?r=gioithieu%2Fview&id=2">Thiết bị công nghệ tinh dầu</a> </h2></li>
-            </ul>
+             <h3>Sản phẩm</h3>
+            <ul class="link1">
+                <li><h2><a href="?r=ruou"> Rượu</a> </h2></li>
+                    <li><h2><a href="?r=sanphamkhac">các thiết bị khác</a> </h2></li>
+                  
+                
+               </ul>
         </div><!--end box-category-->
     </div>
     <div class="col-sm-9">
@@ -67,7 +70,7 @@ $this->params['breadcrumbs'][] = $this->title;
                     </div>
                 </div>
                 <div class="product-detail-des">
-                    <h2>Bình gom hơi đốt</h2>
+                    <h2><?=$sanpham->sanpham_ten?></h2>
                     <br class="space"/>
                     <!-- <span class="over">Còn hàng</span> -->
                     <!-- <div class="box-price">

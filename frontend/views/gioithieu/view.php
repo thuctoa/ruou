@@ -27,6 +27,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 <li><h2><a href="?r=gioithieu%2Fview&id=1">Giới thiệu về trung tâm</a> </h2></li>
                 <li><h2><a href="?r=gioithieu%2Fview&id=3">Thiết bị công nghệ rượu</a> </h2></li>
                 <li><h2><a href="?r=gioithieu%2Fview&id=2">Thiết bị công nghệ tinh dầu</a> </h2></li>
+                
                 <!-- <li><h2><a href="#">Products to be Launched</a> </h2></li> -->
             </ul>
         </div><!--end box-category-->

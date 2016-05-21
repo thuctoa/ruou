@@ -19,6 +19,8 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'tintuc_tieude') ?>
     
+    <?= $form->field($model, 'tintuc_anh') ?>
+    
     <?= $form->field($model, 'tintuc_gioithieu') ?>
 
     <?= $form->field($model, 'tintuc_noidung') ?>

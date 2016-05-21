@@ -66,7 +66,7 @@ class SanphamController extends Controller
         $model = new Sanpham();
 
         if ($model->load(Yii::$app->request->post()) && $model->save()) {
-            return $this->redirect(['view', 'id' => $model->sampham_id]);
+            return $this->redirect(['view', 'id' => $model->sanpham_id]);
         } else {
             return $this->render('create', [
                 'model' => $model,
@@ -85,7 +85,7 @@ class SanphamController extends Controller
         $model = $this->findModel($id);
 
         if ($model->load(Yii::$app->request->post()) && $model->save()) {
-            return $this->redirect(['view', 'id' => $model->sampham_id]);
+            return $this->redirect(['view', 'id' => $model->sanpham_id]);
         } else {
             return $this->render('update', [
                 'model' => $model,

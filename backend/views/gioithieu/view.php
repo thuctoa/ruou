@@ -6,8 +6,8 @@ use yii\widgets\DetailView;
 /* @var $this yii\web\View */
 /* @var $model frontend\models\Gioithieu */
 
-$this->title = $model->gioithieu_id;
-$this->params['breadcrumbs'][] = ['label' => 'Gioithieus', 'url' => ['index']];
+$this->title = $model->gioithieu_tieude;
+$this->params['breadcrumbs'][] = ['label' => 'giới thiệu', 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="gioithieu-view">

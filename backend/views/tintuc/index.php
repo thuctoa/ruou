@@ -26,6 +26,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
             'tintuc_id',
             'tintuc_tieude',
+             'tintuc_anh',
             'tintuc_gioithieu',
             'tintuc_noidung:ntext',
             'tintuc_ngaylap',

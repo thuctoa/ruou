@@ -9,18 +9,18 @@
 </div>
 <div class="content-catogery">
     <div class="col-sm-3">
-        <div class="box-category">
-            <h3>Sản phẩm</h3>
+        <div  style="height: 300px;"class="box-category">
+            <h3>Dịch vụ</h3>
             <ul>
-                <li><h2><a href="?r=site/about">Giới thiệu về trung tâm</a> </h2></li>
-                <li><h2><a href="?r=site/gioithieu-thietbiruou">Thiết bị công nghệ rượu</a> </h2></li>
-                <li><h2><a href="?r=site/gioithieu-thietbitinhdau">Thiết bị công nghệ tinh dầu</a> </h2></li>
+                <li><h2><a href="?r=site/about">Sửa chữa, cải tạo máy thiết bị công nghệ</a> </h2></li><br><br>
+                <li><h2><a href="?r=site/gioithieu-thietbiruou">Tư vấn các giải pháp công nghệ tối ưu hóa quá trình sản xuất</a> </h2></li><br><br>
+                <li><h2><a href="?r=site/gioithieu-thietbitinhdau">Nghiên cứu khoa học và chuyển giao công nghệ</a> </h2></li>
             </ul>
         </div><!--end box-category-->
     </div>
     <div class="col-sm-9">
         <div class="detail-new">
-            <h3 class="name-tittle">Giới thiệu</h3>
+            <h3 class="name-tittle">Dịch vụ</h3>
             <div class="content-new">
                 <h3 class="text-center">LỊCH SỬ HÌNH THÀNH VÀ PHÁT TRIỂN 
                     TRUNG TÂM THIẾT KẾ, CHẾ TẠO VÀ CHUYỂN GIAO THIẾT BỊ CÔNG NGHỆ CAO VIỆT NAM</h3>

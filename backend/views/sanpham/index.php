@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel backend\models\SanphamSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Sanphams';
+$this->title = 'Sản phẩm';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="sanpham-index">
@@ -16,7 +16,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
 
     <p>
-        <?= Html::a('Create Sanpham', ['create'], ['class' => 'btn btn-success']) ?>
+        <?= Html::a('Tạo mới', ['create'], ['class' => 'btn btn-success']) ?>
     </p>
     <?= GridView::widget([
         'dataProvider' => $dataProvider,
@@ -24,7 +24,7 @@ $this->params['breadcrumbs'][] = $this->title;
         'columns' => [
             ['class' => 'yii\grid\SerialColumn'],
 
-            'sampham_id',
+            'sanpham_id',
             'sanpham_ten',
             'sanpham_anh:ntext',
             'sanpham_noidung:ntext',

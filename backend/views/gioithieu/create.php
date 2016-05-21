@@ -6,8 +6,8 @@ use yii\helpers\Html;
 /* @var $this yii\web\View */
 /* @var $model frontend\models\Gioithieu */
 
-$this->title = 'Create Gioithieu';
-$this->params['breadcrumbs'][] = ['label' => 'Gioithieus', 'url' => ['index']];
+$this->title = 'tạo mới';
+$this->params['breadcrumbs'][] = ['label' => 'Giới thiệu', 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="gioithieu-create">
