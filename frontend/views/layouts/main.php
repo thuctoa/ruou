@@ -42,7 +42,7 @@ AppAsset::register($this);
                     <div class="row">
                         <div class="header-in">
                             <div class="col-sm-5">
-                                <a href="?r=site/index" class="logo"><img src="/images/logo.png"></a>
+                                <a href="?r=site/index" class="logo"><img src="images/logo.png"></a>
                             </div>
                             <div class="col-sm-7">
                                 <div class="menu">
