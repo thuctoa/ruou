@@ -1,0 +1,2 @@
+lenh expott sql bang cmd
+C:/xampp/mysql/bin/mysqldump -u root -p ruou > D:/ruou.sql
